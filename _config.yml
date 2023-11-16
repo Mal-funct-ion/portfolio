@@ -80,9 +80,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: false
       share: true
-      related: false
+      related: true
   # _pages
   - scope:
       path: "_pages"
