@@ -14,4 +14,4 @@ This game was made as part of a class project for: Intro to Game Studies. This s
 The project was originally saved in school servers and has since been wiped which unfortunately means I no longer have access to the project or code files. Music and Assets were not made by me. Level Design was made in conjunction with group mates. 
 {: .notice--info}
 
-Small Demo: [link](#)
+Small Demo:
