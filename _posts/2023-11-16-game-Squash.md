@@ -12,4 +12,4 @@ This game was made following the Godot Documentation. The assets and majority of
 
 In this game the primary goal is to avoid mobs as they approach towards without getting hit while also jumping and squishing the mobs to gain points.
 
-[tutorial]: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html.
+[tutorial]: https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html
