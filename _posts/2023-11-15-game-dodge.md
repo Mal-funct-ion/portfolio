@@ -12,7 +12,7 @@ This game was made following the Godot Documentation. The assets and majority of
    
 In this game the primary goal is to avoid mobs as they approach towards without getting hit.  
    
-[Short Demo][demo]
+[Short Demo][demo]  
 [Project Repository][repo]  
 
 

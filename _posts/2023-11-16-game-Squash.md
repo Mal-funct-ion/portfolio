@@ -12,7 +12,7 @@ This game was made following the Godot Documentation. The assets and majority of
   
 In this game the primary goal is to avoid mobs as they approach towards without getting hit while also jumping and squishing the mobs to gain points.   
   
-[Short Demo][demo]
+[Short Demo][demo]  
 [Project Repository][repo]
 
 [repo]: https://github.com/Mal-funct-ion/Projects/tree/main/Godot%20Games/squash_the_creeps_start_1.1.0
