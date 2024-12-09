@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: HA
+title: Hugo Agatep's Portfolio
 email: hugo4137.agatep@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the portfolio of Hugo Agatep, a current student at Lawrence University.
 github_username: Mal-funct-ion
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -81,6 +81,7 @@ defaults:
       read_time: false
       comments: true
       share: false
+      show_date: false
       related: false
   # _pages
   - scope:
