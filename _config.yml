@@ -72,17 +72,19 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: false
-      show_date: false
-      related: false
+  
+  #- scope:
+   #   path: ""
+   #   type: posts
+   # values:
+    #  layout: single
+    #  author_profile: true
+    #  read_time: false
+    #  comments: true
+    #  share: false
+    #  show_date: false
+    #  related: false
+  
   # _pages
   - scope:
       path: "_pages"
