@@ -1,5 +1,5 @@
 ---
-title: "Mobile App: Dining Review"
+title: "Mobile App: Planner App"
 categories:
   - Mobile App
 tags:
