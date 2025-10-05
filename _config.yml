@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Hugo Agatep"
   avatar : "/assets/images/professional.jpg"
-  bio    : "I'm a current undergraduate at Lawrence University majoring in Computer Science and Geosciences"
+  bio    : "I'm a graduate from Lawrence University with Bachelor's degree in Computer Science and Geosciences"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
